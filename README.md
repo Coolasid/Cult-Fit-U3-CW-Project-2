@@ -35,5 +35,4 @@ This project is about copying the famous workout fitness center chain cult.fit.
 7-<a href="https://github.com/yogeshbogar099">Yogesh Ashok Bogar</a>
 
 
-    
-we split our task between three of us. Mahesh designed the landing page along with signIn ans signUp function with all mandatory and necessary authentication for visiting   the website,
+  
